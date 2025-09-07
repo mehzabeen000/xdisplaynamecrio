@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "40px" }}>
-      <h1>XDisplayName</h1>
+      <h1>Full Name Display</h1>
       <form onSubmit={handleSubmit}>
         <div>
           <label>
